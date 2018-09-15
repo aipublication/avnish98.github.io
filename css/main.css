@@ -1135,7 +1135,7 @@ header .logo a {
 
 /* nav-wrap */
 #nav-wrap {
-   font: 12px 'poppins-semibold', sans-serif;
+   font: 12px 'poppins-bold', sans-serif;
    width: 100%;
    text-transform: uppercase;
    letter-spacing: 2.5px;
@@ -2022,7 +2022,7 @@ ul#nav li.current a {color:#0073e6;}
  * -------------------------------------------------------------------
  */
 #services {
-	background: #313131 url(../images/bg.jpg) no-repeat center;
+	/*background: #313131 url(../images/bg.jpg) no-repeat center;*/
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	background-size: cover;
