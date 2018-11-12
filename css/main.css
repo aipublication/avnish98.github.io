@@ -1302,9 +1302,6 @@ ul#nav li.current a {color:#4da6ff;}
 }
 .intro-content .button::after {
 	display: inline-block;
-	/*content: "\f107";*/
-	/*font-family: fontAwesome;*/
-	padding-top: 0.05rem;
 	font-size: 1.6rem;
 	line-height: inherit;
 	text-align: center;
