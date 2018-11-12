@@ -36,7 +36,7 @@
  * -------------------------------------------------------------------
  */
 @import url("fonts.css");
-@import url("font-awesome/css/font-awesome.min.css");
+/*@import url("font-awesome/css/font-awesome.min.css");*/
 @import url("micons/micons.css");
 
 
@@ -1302,8 +1302,9 @@ ul#nav li.current a {color:#4da6ff;}
 }
 .intro-content .button::after {
 	display: inline-block;
-	content: "\f107";
-	font-family: fontAwesome;
+	/*content: "\f107";*/
+	/*font-family: fontAwesome;*/
+	padding-top: 0.05rem;
 	font-size: 1.6rem;
 	line-height: inherit;
 	text-align: center;
@@ -1322,6 +1323,7 @@ ul#nav li.current a {color:#4da6ff;}
 	padding: 0;
 }
 .intro-social li {
+	font-size:0.7rem;
 	display: inline-block;
 	margin: 0 20px;
 	padding: 0;
