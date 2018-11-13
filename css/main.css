@@ -1809,7 +1809,7 @@ ul#nav li.current a {color:#4da6ff;}
  * ------------------------------------------------------------------
  */
  .popup-modal {
-	max-width: 450px;
+	max-width: 490px;
 	background: #FFFFFF;
 	position: relative;
 	margin: 0 auto;
