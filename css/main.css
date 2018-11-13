@@ -90,7 +90,7 @@ a, a:visited {
 	transition: all 0.3s ease-in-out;
 }
 a:hover, a:focus, a:active {
-	color: #0066cc;
+	color: #00539C;
 	outline: 0;
 }
 
@@ -301,7 +301,7 @@ ul.disc li::before {
 	width: 8px;
 	height: 8px;
 	border-radius: 50%;
-	background: #0066cc;
+	background: #00539C;
 	position: absolute;
 	left: -17px;
 	top: 11px;
@@ -309,7 +309,7 @@ ul.disc li::before {
 }
 dt {
 	margin: 0;
-	color: #0066cc;
+	color: #00539C;
 }
 dd {
 	margin: 0 0 0 2rem;
@@ -429,7 +429,7 @@ img.pull-left {
 	display: none;
 }
 .pace .pace-progress {
-	background: #0066cc;
+	background: #00539C;
 	position: fixed;
 	z-index: 900;
 	top: 0;
@@ -472,7 +472,7 @@ img.pull-left {
 	border-top: 11px solid rgba(255, 255, 255, 0.1);
 	border-right: 11px solid rgba(255, 255, 255, 0.1);
 	border-bottom: 11px solid rgba(255, 255, 255, 0.1);
-	border-left: 11px solid #0066cc;
+	border-left: 11px solid #00539C;
 	-webkit-animation: load 1.1s infinite linear;
 	animation: load 1.1s infinite linear;
 	display: block;
@@ -594,8 +594,8 @@ input[type="url"]:focus,
 input[type="password"]:focus,
 textarea:focus,
 select:focus {
-	color: #0080ff;
-	border-bottom: 1px solid #0066cc;
+	color: #007ae6;
+	border-bottom: 1px solid #00539C;
 }
 label, legend {
 	font-family: "poppins-bold", sans-serif;
@@ -736,8 +736,8 @@ button.stroke.large, .button.stroke.large {
 	line-height: 5.4rem !important;
 }
 button.stroke:hover, .button.stroke:hover {
-	border: 3px solid #0066cc;
-	color: #0066cc;
+	border: 3px solid #00539C;
+	color: #00539C;
 }
 button::-moz-focus-inner, input::-moz-focus-inner {
 	border: 0;
@@ -925,7 +925,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 	color: #252525;
 }
 .stats-tabs li a:hover {
-	color: #0066cc;
+	color: #00539C;
 }
 .stats-tabs li a em {
 	display: block;
@@ -1041,7 +1041,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 	margin-bottom: 1.2rem;
 }
 .section-intro h5 {
-	color: #0066cc;
+	color: #00539C;
 	font-size: 1.6rem;
 	line-height: 1.875;
 	margin-bottom: 0.3rem;
@@ -1263,8 +1263,8 @@ ul#nav li.current a {color:#4da6ff;}
 	text-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
 }
 .intro-content h5 {
-	color: #0080ff;
-	/*color: #0080ff;*/
+	color: #007ae6;
+	/*color: #007ae6;*/
 	font-family: "poppins-bold", sans-serif;
 	font-size: 2.3rem;
 	line-height: 1.565;
@@ -1298,7 +1298,7 @@ ul#nav li.current a {color:#4da6ff;}
 	letter-spacing: .25rem;
 }
 .intro-content .button:hover, .intro-content .button:focus {
-	border-color: #0080ff;
+	border-color: #007ae6;
 }
 .intro-content .button::after {
 	display: inline-block;
@@ -1329,7 +1329,7 @@ ul#nav li.current a {color:#4da6ff;}
 	color: #FFFFFF;
 }
 .intro-social li a:hover, .intro-social li a:focus {
-	color: #0080ff;
+	color: #007ae6;
 }
 
 /**
@@ -1542,7 +1542,7 @@ ul#nav li.current a {color:#4da6ff;}
 	text-align: center;
 }
 #resume .resume-header h2 {
-	color: #0066cc;
+	color: #00539C;
 }
 
 #resume .resume-timeline {
@@ -1970,7 +1970,7 @@ ul#nav li.current a {color:#4da6ff;}
 	color: white;
 }
 #services .section-intro h5 {
-	color: #0066cc;
+	color: #00539C;
 }
 #services .section-intro p {
 	color: rgba(255, 255, 255, 0.7);
@@ -1992,7 +1992,7 @@ ul#nav li.current a {color:#4da6ff;}
 }
 .services-list .icon i {
 	font-size: 5.4rem;
-	color: #0066cc;
+	color: #00539C;
 }
 .services-list h3 {
 	color: #FFFFFF;
@@ -2020,7 +2020,7 @@ ul#nav li.current a {color:#4da6ff;}
 	background: #FFFFFF;
 }
 .owl-theme .owl-controls .owl-page.active span {
-	background: #0066cc;
+	background: #00539C;
 }
 
 
@@ -2106,7 +2106,7 @@ ul#nav li.current a {color:#4da6ff;}
 	color: white;
 }
 #contact .section-intro h5 {
-	color: #0066cc;
+	color: #00539C;
 }
 #contact .section-intro p {
 	color: rgba(255, 255, 255, 0.7);
@@ -2159,7 +2159,7 @@ ul#nav li.current a {color:#4da6ff;}
 	padding: 0 2rem;
 	margin: 0;
 	color: #FFFFFF;
-	background: #0066cc;
+	background: #00539C;
 }
 #contact form .form-field label::after {
 	position: absolute;
@@ -2168,7 +2168,7 @@ ul#nav li.current a {color:#4da6ff;}
 	margin-top: -6px;
 	border-top: 5px solid transparent;
 	border-bottom: 5px solid transparent;
-	border-right: 5px solid #0066cc;
+	border-right: 5px solid #00539C;
 	content: "";
 }
 #contact input[type="text"],
@@ -2190,7 +2190,7 @@ ul#nav li.current a {color:#4da6ff;}
 #contact input[type="text"]:focus,
 #contact input[type="password"]:focus,
 #contact input[type="email"]:focus {
-	border-color: #0066cc;
+	border-color: #00539C;
 	color: #FFFFFF;
 }
 #contact textarea {
@@ -2198,7 +2198,7 @@ ul#nav li.current a {color:#4da6ff;}
 	padding: 1.8rem 2rem;
 }
 #contact textarea:focus {
-	border-color: #0066cc;
+	border-color: #00539C;
 	color: #FFFFFF;
 }
 #contact button.submitform {
@@ -2210,11 +2210,11 @@ ul#nav li.current a {color:#4da6ff;}
 	padding: 0 3rem;
 	margin-top: 4.8rem;
 	width: 100%;
-	background: #0066cc;
+	background: #00539C;
 	color: #FFFFFF;
 }
 #contact button.submitform:hover, #contact button.submitform:focus {
-	background: #0080ff;
+	background: #007ae6;
 }
 #message-warning, #message-success {
 	display: none;
@@ -2228,7 +2228,7 @@ ul#nav li.current a {color:#4da6ff;}
 	color: #fa0003;
 }
 #message-success {
-	color: #0066cc;
+	color: #00539C;
 }
 #message-warning i, #message-success i {
 	margin-right: 10px;
@@ -2273,7 +2273,7 @@ ul#nav li.current a {color:#4da6ff;}
 	color: #FFFFFF;
 }
 .contact-info h5 {
-	color: #0066cc;
+	color: #00539C;
 }
 
 /**
@@ -2347,7 +2347,7 @@ footer a, footer a:visited {
 	color: #FFFFFF;
 }
 footer a:hover, footer a:focus {
-	color: #0066cc;
+	color: #00539C;
 }
 footer .row {
 	max-width: 900px;
@@ -2426,7 +2426,7 @@ footer .copyright span:last-child::after {
 	width: 6rem;
 	line-height: 6.6rem;
 	text-align: center;
-	background: #0080ff;
+	background: #007ae6;
 	color: #FFFFFF;
 	text-align: center;
 	text-transform: uppercase;
