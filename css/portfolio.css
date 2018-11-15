@@ -8,9 +8,13 @@ body {
     background-color: #333;
 }
 
+h1, h3, .section-intro h1 {
+    color: #FFFFFF;
+}
+
 .portfolio {
-	background: #FFFFFF;
-	padding-top: 5rem;
+	background: #151515;
+	padding-top: 2rem;
 	padding-bottom: 5rem;
 }
 .portfolio .folio-item {
