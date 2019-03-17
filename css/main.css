@@ -1713,6 +1713,7 @@ ul#nav li.current a {color:#0088ff;}
 	overflow: hidden;
 }
 #portfolio .folio-item img {
+	padding : 0;
 	vertical-align: middle;
 	-moz-transition: all 0.25s ease-in-out;
 	-o-transition: all 0.25s ease-in-out;
