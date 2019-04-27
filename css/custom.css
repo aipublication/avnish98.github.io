@@ -1,17 +1,13 @@
 .cust-icon{
     max-height: 10rem;
-    max-width: 10rem;
+    max-width: 7.5rem;
 }
 
-.cust-icon-2{
-    max-height: 10rem;
-    max-width: 20rem;
+.skl {
+    max-width: 15rem;
 }
-.cust-icon-3{
-    max-height: 10rem;
+
+.pand {
     max-width: 30rem;
 }
 
-.cust-skillslist {
-    list-style: none;
-}
