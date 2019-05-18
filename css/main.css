@@ -2016,6 +2016,10 @@ ul#nav li.current a {color:#0088ff;}
 .services-list .desc {
 	color: rgba(255, 255, 255, 0.6);
 }
+.services-list .desc a{
+	color: rgba(255, 255, 255, 0.6);
+}
+
 
 /* pagination */
 .owl-pagination {
