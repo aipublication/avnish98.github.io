@@ -1,18 +1,18 @@
 .cust-icon{
-    height: 6.5rem;
+    height: 5.5rem;
     max-width: 7.5rem;
-    padding: 0.5 rem;
+    padding: 0.25rem;
 }
 
 .skl {
-    padding: 0.5 rem;
-    height: 6.5rem;
+    height: 5.5rem;
     max-width: 15rem;
+    padding: 0.25rem;
 }
 
 .pand {
-    padding: 0.5 rem;
-    max-height: 10rem;
+    height: 5.5rem;
     max-width: 25rem;
+    padding: 0.25rem;
 }
 
