@@ -1,6 +1,12 @@
 .cust-icon{
+    height: 5rem;
+    max-width: 16rem;
+    padding: 0.25rem;
+}
+
+.cust-icon-2{
     height: 5.5rem;
-    max-width: 7.5rem;
+    max-width: 15rem;
     padding: 0.25rem;
 }
 
